@@ -23,10 +23,6 @@ bool sw_brake
 bool sw_hydraulic_up
 bool sw_hydraulic_down
 
-# 비상 정지(무선/유선)
-bool emergency_stop
-bool emergency_rf_stop
-
 # 모터 RPM
 int32 left_motor_rpm
 int32 right_motor_rpm
